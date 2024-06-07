@@ -21,6 +21,22 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <!-- SEO Meta Tags for Home Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Industry">
+    <meta name="description" content="Sathuta Industry, established by Mr. Indika Dhanushka Wijesundara, offers quality products and reliable services in the distribution industry. With 15 years of experience, we specialize in supplying sand, aggregates, soil, and heavy machinery, as well as providing transport and construction services.">
+    <meta name="keywords" content="Sathuta Industry, quality products, reliable service, dedicated team, 8/7 service, distribution industry, machinery, transport, construction, manufactured sand, wash sand, sea sand, river sand, quarry dust, quarry muck, metal aggregates, ABC aggregates, gravel soil, top soil, rubble, boulders, C1, transport services, heavy machinery supplying, construction services, irrigation channels, road construction, building construction, Indika Dhanushka Wijesundara, 15 years of experience, corporate customers, project completion, awards achieved, Sri Lanka, high-quality materials, modern equipment, private enterprises, public enterprises">
+
+    <!-- SEO Open Graph Tags for Home Page -->
+    <meta property="og:title" content="Home | Sathuta Industry">
+    <meta property="og:description" content="Discover Sathuta Industry's comprehensive services in the distribution industry, specializing in quality products, reliable services, and a dedicated team. Learn more about our offerings in sand, aggregates, machinery, transport, and construction.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutaindustry.lk/">
+    <meta property="og:image" content="https://sathutaindustry.lk/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

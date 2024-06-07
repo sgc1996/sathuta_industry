@@ -21,6 +21,22 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <!-- SEO Meta Tags for Who We Are Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Industry">
+    <meta name="description" content="Sathuta Industry has been providing top-notch transport, machinery, and construction services for over 20 years. We cater to both local and foreign clients with our extensive range of machinery and transport solutions. Discover more about our divisions and projects.">
+    <meta name="keywords" content="Sathuta Industry, transport services, machinery services, construction services, professional strength, local clients, foreign clients, Colombo, Mobile Cranes, Backhoes, Excavators, Rollers, Pay Loaders, Wheel Loaders, Motor Graders, Crawler Cranes, Rafter Cranes, Lorries, Low-beds, Boom trucks, Sand, Sea Sand, Wash-sand, M-sand, Soil, Aggregate, ABC aggregates, Metal Crushers, Sand Washing Plants, Soil Deposits, Sathuta Auto Service, Tyre Center, Oil Mart, Lanka Sugar Corporation, sugar cane cultivation, Sooriyapura Sand Mining Project, Mahaweli Ministry, Sri Lanka">
+
+    <!-- SEO Open Graph Tags for Who We Are Page -->
+    <meta property="og:title" content="Who We Are | Sathuta Industry">
+    <meta property="og:description" content="Learn about Sathuta Industry's 20 years of expertise in transport, machinery, and construction services. Our divisions offer comprehensive solutions for both local and international clients.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutaindustry.lk/who_we_are.php">
+    <meta property="og:image" content="https://sathutaindustry.lk/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

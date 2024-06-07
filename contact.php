@@ -21,6 +21,22 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <!-- SEO Meta Tags for Contact Us Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Industry">
+    <meta name="description" content="Get in touch with Sathuta Industry. Contact us for any queries regarding our products and services. Reach out via phone, email, or visit our office in Heiyanthuduwa, Sri Lanka.">
+    <meta name="keywords" content="Sathuta Industry contact, contact Sathuta Industry, query, customer support, contact information, Heiyanthuduwa office, Sri Lanka contact, Sathuta Industry address, Sathuta Industry phone number, Sathuta Industry email">
+
+    <!-- SEO Open Graph Tags for Contact Us Page -->
+    <meta property="og:title" content="Contact Us | Sathuta Industry">
+    <meta property="og:description" content="Have a query? Contact Sathuta Industry for any questions about our products and services. Reach out via phone, email, or visit our office.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutaindustry.lk/contact.php">
+    <meta property="og:image" content="https://sathutaindustry.lk/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
