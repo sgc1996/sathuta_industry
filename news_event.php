@@ -21,6 +21,22 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <!-- SEO Meta Tags for News & Events Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Industry">
+    <meta name="description" content="Stay updated with the latest news and events from Sathuta Industry. Discover our achievements, new projects, industry insights, and updates on our products and services.">
+    <meta name="keywords" content="Sathuta Industry news, Sathuta Industry events, latest updates, new projects, industry insights, product updates, service updates, achievements, Sri Lanka construction news, Sri Lanka transport services, Sri Lanka machinery supply, Sri Lanka manufacturing updates">
+
+    <!-- SEO Open Graph Tags for News & Events Page -->
+    <meta property="og:title" content="News & Events | Sathuta Industry">
+    <meta property="og:description" content="Discover the latest news and events from Sathuta Industry. Learn about our new projects, industry insights, and updates on our products and services.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutaindustry.lk/news_event.php">
+    <meta property="og:image" content="https://sathutaindustry.lk/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

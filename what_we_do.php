@@ -21,6 +21,22 @@
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
+    <!-- SEO Meta Tags for What We Do Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Industry">
+    <meta name="description" content="Sathuta Industry specializes in supplying high-quality manufactured sand, wash sand, sea sand, river sand, quarry dust, metal aggregates, gravel soil, and construction materials. We also offer comprehensive transport services and heavy machinery supply for construction projects in Sri Lanka.">
+    <meta name="keywords" content="Sathuta Industry, manufactured sand, wash sand, sea sand, river sand, quarry dust, metal aggregates, gravel soil, top soil, rubble, boulders, C1, transport services, heavy machinery supply, construction services, irrigation channels, road construction, building construction, onsite concrete batching, Sri Lanka">
+
+    <!-- SEO Open Graph Tags for What We Do Page -->
+    <meta property="og:title" content="What We Do | Sathuta Industry">
+    <meta property="og:description" content="Explore Sathuta Industry's comprehensive services including the supply of various sands, aggregates, and construction materials, as well as transport and heavy machinery services for all your construction needs.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutaindustry.lk/what_we_do.php">
+    <meta property="og:image" content="https://sathutaindustry.lk/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
